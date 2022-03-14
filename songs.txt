@@ -1,2 +1,3 @@
 Songs:
 Song 1
+Song 2
